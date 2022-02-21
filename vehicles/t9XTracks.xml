@@ -344,7 +344,6 @@
                     <torque normRpm="1" torque="0.72"/>
                 </motor>
                 <transmission minForwardGearRatio="9.03" maxForwardGearRatio="310" minBackwardGearRatio="37" maxBackwardGearRatio="310" name="$l10n_info_transmission_cvt"/>
-                <objectChange node="t9TracksExteriorDecals_530" visibilityActive="false" visibilityInactive="false"/>
                 <objectChange node="t9TracksExteriorDecals_700" visibilityActive="true" visibilityInactive="false"/>
                 <objectChange node="autoCommandBadge" visibilityActive="true"/>
             </motorConfiguration>
