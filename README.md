@@ -1,4 +1,9 @@
-## This mod pack for Farming Simulator 22 features your favorite New Holland machinery but now enhanced with eXtra power, eXtreme speed and eXciting performance! 
+# Xtreme New Holland Pack
+### This mod pack for Farming Simulator 22 features your favorite New Holland machinery but now enhanced with eXtra power, eXtreme speed and eXciting performance! 
+
+#### Latest version can be downloaded here: [v1.0.0.0](https://falkkor.io/FS22_xtremeNewHollandPack.zip)
+
+![Xtreme New Holland Pack Screenshot](/screenshots/xtreme_newholland_screen1.jpg)
 
 ```
 All store items in this mod feature: 
@@ -36,7 +41,9 @@ T9X Tracks:
     - VALUE LB-FT / VALUE NM
     - 46 MPH / 75 KPH 
     - $575,000 USD
+```
 
+```
 Changelog:
     - v1.0.0.0 
         - Initial public release
